@@ -1,0 +1,50 @@
+body {
+  /* background: rgb(235, 227, 227); */
+  margin: 5px;
+  /* background-color: white;
+background-image: url("https://www.transparenttextures.com/patterns/black-thread-light.png"); */
+background-color: #eee;
+/* background-image: url("https://www.transparenttextures.com/patterns/diagmonds-light.png"); */
+background-image: url("https://www.transparenttextures.com/patterns/diamond-upholstery.png");
+}
+
+h1 {
+  text-align: center;
+}
+
+nav{
+  background-color: #eee;
+  background-image: url("https://www.transparenttextures.com/patterns/diamond-upholstery.png");
+}
+
+#bars {
+  display: flex;
+  justify-content: center;
+}
+
+#navLeftDiv{
+    display: flex;
+}
+
+#navRightDiv{
+    display: flex;
+}
+
+.vr{
+    border: 1px rgb(202, 195, 195) solid;
+    margin-right: 10px;
+    height: 22px;
+    margin-top: auto;
+    margin-bottom: auto;
+}
+
+.vr1{
+    margin-right: 10px;
+    margin-left: 10px;
+}
+
+.divBar {
+  border: .5px #dac292 solid;
+  width: 12px;
+  background: #3e4444;
+}
