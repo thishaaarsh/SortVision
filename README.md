@@ -1,6 +1,7 @@
 # SortVision: Visualizing Sorting Algorithms
 
 <br/>
+![Screenshot (63)](https://github.com/thishaaarsh/SortVision/assets/90460581/be649fce-3f08-4593-a063-6a362567d5b8)
 
 
 <br/>
